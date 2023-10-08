@@ -46,9 +46,4 @@
 <img align="right" height="150" src="[https://photos.app.goo.gl/yKmLx2APhCZimgH17](https://media.tenor.com/1a1QJuDF18EAAAAM/cat-cat-party.gif)"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/umutZT/umutZT/output/snake.svg" alt="Snake animation" />
-
 ###
