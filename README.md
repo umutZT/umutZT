@@ -37,13 +37,13 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/__umutozturk__/" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo](https://www.google.com/search?q=party+cat+gif&tbm=isch&ved=2ahUKEwir2MiNj-aBAxUCgv0HHfdcD2oQ2-cCegQIABAA&oq=party+cat+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBggAEAUQHjIGCAAQBRAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIIxAnOgcIABAYEIAEOggIABCABBCxAzoHCAAQigUQQzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBUOMWWKAzYP8zaAJwAHgAgAF-iAGPDZIBBDAuMTWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=r3MiZevEBIKE9u8P97m90AY&bih=764&biw=1536#imgrc=L15X6K8OVXODyM)https://www.google.com/search?q=party+cat+gif&tbm=isch&ved=2ahUKEwir2MiNj-aBAxUCgv0HHfdcD2oQ2-cCegQIABAA&oq=party+cat+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBggAEAUQHjIGCAAQBRAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIIxAnOgcIABAYEIAEOggIABCABBCxAzoHCAAQigUQQzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBUOMWWKAzYP8zaAJwAHgAgAF-iAGPDZIBBDAuMTWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=r3MiZevEBIKE9u8P97m90AY&bih=764&biw=1536#imgrc=L15X6K8OVXODyM"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://photos.app.goo.gl/yKmLx2APhCZimgH17"  />
+<img align="right" height="150" src="[https://photos.app.goo.gl/yKmLx2APhCZimgH17](https://media.tenor.com/1a1QJuDF18EAAAAM/cat-cat-party.gif)"  />
 
 ###
 
