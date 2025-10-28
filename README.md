@@ -9,8 +9,10 @@
 
 ###
 
-<p align="left">🔭 I am currently working on a project at BMG Lab in Ege University as a Software Developer.<br>🌱 I am currently learning Nextflow and a little bit cyber security.</p>
-
+<p align="left">
+🤖 I am actively involved in robotics projects, focusing on autonomous systems and ROS 2 development.<br>
+🌱 I am currently learning Nextflow and exploring topics in cybersecurity.
+</p>
 ###
 
 <h4 align="left">Connect with me:</h4>
