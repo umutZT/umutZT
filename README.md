@@ -1,56 +1,47 @@
-<h2 align="left">Hi 👋! My name is Umut and I'm a computer engineering student at Ege University.</h2>
+<h1 align="center">Hi 👋, I'm Umut</h1>
+<h3 align="center">Computer Engineering Student</h3>
 
-###
+<p align="center">
+  I'm a senior Computer Engineering student at Ege University. While I have a background in Robotics and Autonomous Systems, I have shifted my primary focus to <b>Web Development</b>, specifically architecting solid and scalable backend systems.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umutZT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umutZT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me
+
+- 🎓 Senior Computer Engineering student at **Ege University**.
+- 🚀 Currently leveling up my backend skills at the **n11 Backend Bootcamp**.
+- 💻 Building projects using **Java (Spring Boot), Python (FastAPI, Django), Docker, and PostgreSQL**.
+- 🤖 My past experience in **Robotics (ROS2, C++)** gave me a solid foundation in complex logic and algorithmic problem-solving.
+- 🤝 Experienced in organizational leadership and team coordination through my active roles in student communities.
+- 🌱 Currently learning about software architecture, SOLID principles, and building secure web applications.
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="left">
-🤖 I am actively involved in robotics projects, focusing on autonomous systems and ROS 2 development.<br>
-🌱 I am currently learning Nextflow and exploring topics in cybersecurity.
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,docker,js,react" alt="My Skills" />
 </p>
-###
 
-<h4 align="left">Connect with me:</h4>
+---
 
-###
+### 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umutZT&show_icons=true&theme=tokyonight&hide_border=true" alt="Umut's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutZT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/umut-ozturkk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="umtozturk2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:umtozturk2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/__umutozturk__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h4 align="left">Languages and Tools:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
-
-###
+</p>
