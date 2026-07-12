@@ -1,47 +1,52 @@
-<h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">Computer Engineering Student</h3>
+# Hi 👋, I'm Umut
 
-<p align="center">
-  I'm a senior Computer Engineering student at Ege University. While I have a background in Robotics and Autonomous Systems, I have shifted my primary focus to <b>Web Development</b>, specifically architecting solid and scalable backend systems.
-</p>
+### Junior Backend Developer — Java · Spring Boot · Microservices
+
+Computer Engineering graduate from **Ege University** (June 2026), focused on designing **scalable, maintainable backend systems**.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Senior Computer Engineering student at **Ege University**.
-- 🚀 Currently leveling up my backend skills at the **n11 Backend Bootcamp**.
-- 💻 Building projects using **Java (Spring Boot), Python (FastAPI, Django), Docker, and PostgreSQL**.
-- 🤖 My past experience in **Robotics (ROS2, C++)** gave me a solid foundation in complex logic and algorithmic problem-solving.
-- 🤝 Experienced in organizational leadership and team coordination through my active roles in student communities.
-- 🌱 Currently learning about software architecture, SOLID principles, and building secure web applications.
+- 🎓 B.Sc. in Computer Engineering, **Ege University** (Graduated June 2026)
+- ☕ Building backend systems with **Java, Spring Boot & Spring Cloud** (Eureka, Config Server, Gateway, OpenFeign)
+- 🏗️ Hands-on with **Microservices Architecture, Saga Pattern, DDD, SOLID & GRASP principles**
+- 📨 Working with **RabbitMQ** for async messaging and **PostgreSQL / MySQL** with a DB-per-service approach
+- 🐳 Shipping with **Docker, Jib and GitHub Actions CI/CD**
+- 🤖 Background in **Robotics & Autonomous Systems (ROS2, C++, sensor fusion)** — a solid base for algorithmic thinking and complex system design
+- 🤝 Led a 450-member student organization (BEST Izmir) — comfortable owning communication and coordination in a team
+- 🌱 Currently deepening: distributed systems patterns, secure coding practices, and observability
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🛒 [**n11 Bootcamp Final Project — E-Commerce Microservices**](https://github.com/umutZT/n11-bootcamp-final-project) | 5 functional microservices + Eureka, Config Server & API Gateway. **Saga Orchestration** with compensation logic, JWT auth at the gateway, RabbitMQ async payment flow, real **Iyzico Sandbox** payment integration, DB-per-service PostgreSQL, ~18 saga-focused unit tests (JUnit 5 + Mockito, JaCoCo), Docker + Jib images, GitHub Actions CI, React + Vite frontend with a live Saga tracking modal. | Java 21, Spring Boot, Spring Cloud, RabbitMQ, PostgreSQL, Docker |
+| 🍽️ **FoodLens** | Scalable serverless backend on **Google Cloud Run**: high-performance RESTful APIs processing real-time OCR data for low-latency health-risk analysis. | Python, FastAPI, Docker, GCP |
+| 🚕 **TEKNOFEST 2025 — Robotaxi (Finalist)** | YOLO-based object detection and LiDAR–IMU–GPS sensor fusion within ROS as part of a cross-functional autonomous vehicle team. | Python, C++, ROS, YOLO |
+| 🗄️ **Multi-Platform E-Commerce Database Design** | EER modeling, normalized RDBMS schema, SQL constraints, triggers and analytical queries for data integrity and reporting. | MySQL, SQL |
+| 🏛️ **OO Analysis & Design — Course Registration System** | Domain-driven university course registration system built with clean architecture, focusing on business rules and transactional integrity. | Java, DDD, Clean Architecture |
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,docker,js,react" alt="My Skills" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,mysql,rabbitmq,docker,git,githubactions,linux,react,cpp)](https://skillicons.dev)
+
+**Architecture & Design:** Microservices · Saga Pattern · Domain-Driven Design · Layered Architecture · SOLID · GRASP · OOP
 
 ---
 
-### 📊 GitHub Stats
+### 📜 Certifications
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umutZT&show_icons=true&theme=tokyonight&hide_border=true" alt="Umut's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutZT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+- 🏅 **n11 TalentHub Backend Bootcamp** — n11 & Patika.dev ([certificate](https://www.skillcamp.dev/certificates/jhoiGa0N))
+- 🤖 **Introduction to Robotics** — Technical University of Cluj-Napoca
 
 ---
 
 ### 📫 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/umut-ozturkk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:umtozturk2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umut-ozturkk/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umtozturk2003@gmail.com)
