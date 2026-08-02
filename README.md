@@ -14,7 +14,7 @@ Computer Engineering graduate from **Ege University** (June 2026), focused on de
 - 📨 Working with **RabbitMQ** for async messaging and **PostgreSQL / MySQL** with a DB-per-service approach
 - 🐳 Shipping with **Docker, Jib and GitHub Actions CI/CD**
 - 🤖 Background in **Robotics & Autonomous Systems (ROS2, C++, sensor fusion)** — a solid base for algorithmic thinking and complex system design
-- 🤝 Led a 450-member student organization (BEST Izmir) — comfortable owning communication and coordination in a team
+- 🤝 Led a 300-member student organization (BEST Izmir) — comfortable owning communication and coordination in a team
 - 🌱 Currently deepening: distributed systems patterns, secure coding practices, and observability
 
 ---
